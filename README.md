@@ -8,9 +8,8 @@ I'm a Full Stack Developer with a passion for software engineering and a strong 
 - ⚡ Fun fact **I think u r funny**
 
 📫 You can reach me via email at kumakash.connect@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dev-akashkumar/).
- ## Skills
-- **Languages:** Java, HTML, JavaScript, TypeScript <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-akash-kumar&show_icons=true&locale=en&layout=compact" alt="dev-akash-kumar" /></p>
-
+ ## Skills                      <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-akash-kumar&show_icons=true&locale=en&layout=compact" alt="dev-akash-kumar" /></p>
+- **Languages:** Java, HTML, JavaScript, TypeScript 
 - **Technologies:** Angular, Spring Boot
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, IntelliJ IDEA, Visual Studio Code, Postman , Docker
