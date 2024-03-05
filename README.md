@@ -15,7 +15,7 @@ I'm a Full Stack Developer with a passion for software engineering and a strong 
 - **Tools:** Git, IntelliJ IDEA, Visual Studio Code, Postman , Docker
 
 
-<p>&nbsp;<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=dev-akash-kumar&show_icons=true&locale=en" alt="dev-akash-kumar" />
+<p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=dev-akash-kumar&show_icons=true&locale=en" alt="dev-akash-kumar" />
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-akash-kumar&" alt="dev-akash-kumar" /></p>
 
 <!---
